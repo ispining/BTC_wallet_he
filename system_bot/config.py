@@ -251,7 +251,7 @@ def detected_payment(sleep_before_check: int = 10) -> [bit.PrivateKey, bit.Priva
 
 
 
-TOKEN = "5986561125:AAEta-nz8umw_cUv2cfer1VqIB0P144J5NU"
+TOKEN = "5850737406:AAH6W83XSx_DOfyAiBk0aEKig3rWvd4QdR0"
 tgbot = ilm.tgBot(token=TOKEN)
 kmarkup = tgbot.kmarkup
 bot = tgbot.bot
